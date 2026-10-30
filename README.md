@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Karely, an Engineer based in Mexico.
+
+I have a Bach. in Mining and Metallurgy Engineer, with experience as a Materials and Design Engineer, as well as a Mine Supervisor. 
+I am skilled in the ussage of different software such as AutoCAD, Solidworks, Promine, Recmin, Metsim, and some others. 
+
+I love learning new skills.
+
+I’m currently learning SQL as I am building my Data Analytics career.
+
+:)
